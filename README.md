@@ -14,26 +14,43 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![License-Restricted](https://img.shields.io/badge/License-Restricted-yellow?style=for-the-badge)
 
 An interactive, gamified web application designed to teach children the basics of Islam in a fun and engaging way. Built with Vanilla JavaScript, HTML, and CSS.
 
 ## ✨ Features
 
 - **11 Learning Modules:** Arabic letters, Arabic numbers, 5 Pillars of Islam, 25 Prophets, 99 Names of Allah, Daily Du'as, Short Surahs, Wudu (Ablutions), Good Manners, Quran Learning, and Daily Values.
+
 - **Gamification:** Earn XP, level up, collect coins, unlock avatars, and maintain your daily streak.
+
 - **Multilingual UI:** The interface is available in French, English, and Turkish.
+
 - **Audio Support:** Includes local MP3 playback for letters, numbers, and Quran recitations, plus a Text-to-Speech (TTS) fallback for story narrations.
+
 - **Responsive Design:** Works perfectly on mobile phones, tablets, and desktop computers.
+
 
 ## 🚀 How to Run Locally
 
 This project uses Vanilla JS, so no complex build step is required:
 1. Clone this repository.
+
 2. Open `index.html` in your web browser.
 3. *(Optional)* For the translation script, ensure you have Node.js installed, then run: `node translate_content.js`
 
-## ⚠️ Important Note on Copyright & Audio
-The code is open-source, but **you must verify the rights** of the audio files in the `audio/` folder (Quran recitations, Du'as, etc.) and the French translations before publishing this project publicly. Do not redistribute copyrighted audio files if you do not have the permission to do so.
+## 👨‍💻 Author
+
+**Bstudio136**
+
+- 🐙 GitHub : [@Bstudio136](https://github.com/Bstudio136)
+- 🎵 TikTok : [@bstudio136](https://tiktok.com/@bstudio136)
+- 🐦 Twitter / X : [@Bstudio136](https://x.com/Bstudio136)
+- 📺 YouTube : [@Bstudio136](https://www.youtube.com/@Bstudio136)
+
+## 📄 License
+
+This project is licensed under the **BSuite - Use As-Is Only License**. You are allowed to use the project as-is for personal and non-commercial purposes, but modifying, copying source code, reselling, or creating derivative works is strictly forbidden. See the [LICENSE](LICENSE) file for details.
 
 <br>
 <div align="center">
@@ -53,24 +70,40 @@ The code is open-source, but **you must verify the rights** of the audio files i
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![License-Restricted](https://img.shields.io/badge/License-Restricted-yellow?style=for-the-badge)
 
 Une application web éducative conçue pour apprendre les bases de l'islam aux enfants de manière ludique. Fonctionne entièrement hors ligne (une fois les fichiers téléchargés) et intègre des mécaniques de jeu.
 
 ## ✨ Fonctionnalités
 
 - **11 Modules d'apprentissage :** Lettres arabes, Chiffres, 5 Piliers de l'islam, 25 Prophètes, 99 Noms d'Allah, Du'ā du quotidien, Sourates (Juz 'Amma), Ablutions (Wudu), Bonnes manières, Découvrir le Coran, et Valeurs au quotidien.
+
 - **Gamification :** Gagnez de l'XP, montez de niveau, collectionnez des pièces, débloquez des avatars et gardez votre série (streak) quotidienne.
+
 - **Interface multilingue :** Disponible en Français, Anglais et Turc.
+
 - **Support Audio :** Lecture de fichiers MP3 locaux pour les lettres, chiffres et sourates, avec narration vocale (TTS) pour les histoires.
+
 
 ## 🚀 Comment lancer le projet
 
 1. Clonez ce dépôt.
+
 2. Ouvrez le fichier `index.html` dans votre navigateur web.
 3. *(Optionnel)* Pour régénérer les traductions, installez Node.js et lancez : `node translate_content.js`
 
-## ⚠️ Note importante sur les droits d'auteur
-Le code est open-source, mais **vous devez vérifier les droits** des fichiers audio dans le dossier `audio/` (récitations du Coran, invocations) et des traductions avant de rendre ce projet public. Ne distribuez pas de fichiers audio protégés par le droit d'auteur sans autorisation.
+## 👨‍💻 Auteur
+
+**Bstudio136**
+
+- 🐙 GitHub : [@Bstudio136](https://github.com/Bstudio136)
+- 🎵 TikTok : [@bstudio136](https://tiktok.com/@bstudio136)
+- 🐦 Twitter / X : [@Bstudio136](https://x.com/Bstudio136)
+- 📺 YouTube : [@Bstudio136](https://www.youtube.com/@Bstudio136)
+
+## 📄 Licence
+
+Ce projet est sous **Licence BSuite - Use As-Is Only**. Vous êtes autorisé à utiliser le projet tel quel à des fins personnelles et non commerciales, mais toute modification, copie de code source, revente ou création d'œuvre dérivée est strictement interdite. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 <br>
 <div align="center">
@@ -90,24 +123,40 @@ Le code est open-source, mais **vous devez vérifier les droits** des fichiers a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![License-Restricted](https://img.shields.io/badge/License-Restricted-yellow?style=for-the-badge)
 
 Çocuklara İslam'ın temellerini eğlenceli bir şekilde öğretmek için tasarlanmış, oyunlaştırılmış bir eğitim web uygulamasıdır. HTML, CSS ve Vanilla JavaScript ile geliştirilmiştir.
 
 ## ✨ Özellikler
 
 - **11 Öğrenme Modülü:** Arap harfleri, Arapça sayılar, İslam'ın 5 şartı, 25 Peygamber, Allah'ın 99 İsmi, Günlük Dualar, Kısa Sûreler, Abdest, Güzel Ahlak, Kur'an'ı Keşfet ve Günlük Değerler.
+
 - **Oyunlaştırma:** XP kazanın, seviye atlayın, jeton toplayın, avatarların kilidini açın ve günlük serinizi (streak) koruyun.
+
 - **Çoklu Dil Desteği:** Arayüz Fransızca, İngilizce ve Türkçe olarak kullanılabilir.
+
 - **Ses Desteği:** Harfler, sayılar ve sûreler için yerel MP3 çalma özelliği ile hikayeler için Metinden Sese (TTS) anlatımı.
+
 
 ## 🚀 Yerel Olarak Nasıl Çalıştırılır?
 
 1. Bu depoyu (repository) klonlayın.
+
 2. `index.html` dosyasını web tarayıcınızda açın.
 3. *(İsteğe bağlı)* Çeviri betiğini kullanmak için Node.js yüklü olmalıdır, ardından şu komutu çalıştırın: `node translate_content.js`
 
-## ⚠️ Telif Hakkı ve Ses Dosyaları Hakkında Önemli Not
-Kod açık kaynaktır, ancak projeyi herkese açık hale getirmeden önce `audio/` klasöründeki ses dosyalarının (Kur'an tilavetleri, dualar vb.) ve çevirilerin **telif haklarını kontrol etmelisiniz**. İzin sahibi olmadığınız telif hakkı korumalı ses dosyalarını yeniden dağıtmayın.
+## 👨‍💻 Yazar / Yaratıcı
+
+**Bstudio136**
+
+- 🐙 GitHub : [@Bstudio136](https://github.com/Bstudio136)
+- 🎵 TikTok : [@bstudio136](https://tiktok.com/@bstudio136)
+- 🐦 Twitter / X : [@Bstudio136](https://x.com/Bstudio136)
+- 📺 YouTube : [@Bstudio136](https://www.youtube.com/@Bstudio136)
+
+## 📄 Lisans
+
+Bu proje **BSuite - Use As-Is Only License** lisansı altındadır. Projeyi olduğu gibi kişisel ve ticari olmayan amaçlarla kullanabilirsiniz; ancak kodu değiştirmek, kopyalamak, yeniden satmak veya türev eserler oluşturmak kesinlikle yasaktır. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
 
 <br>
 <div align="center">
