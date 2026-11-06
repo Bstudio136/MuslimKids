@@ -50,7 +50,7 @@ This project uses Vanilla JS, so no complex build step is required:
 
 ## 📄 License
 
-This project is licensed under the **BSuite - Use As-Is Only License**. You are allowed to use the project as-is for personal and non-commercial purposes, but modifying, copying source code, reselling, or creating derivative works is strictly forbidden. See the [LICENSE](LICENSE) file for details.
+This project is under the **BSuite - Use As-Is Only License**. You are free to use the software as-is for personal and non-commercial purposes, but modifying, copying source code, reselling, or sublicensing is strictly forbidden. See the [LICENSE](LICENSE) file for details.
 
 <br>
 <div align="center">
@@ -103,7 +103,7 @@ Une application web éducative conçue pour apprendre les bases de l'islam aux e
 
 ## 📄 Licence
 
-Ce projet est sous **Licence BSuite - Use As-Is Only**. Vous êtes autorisé à utiliser le projet tel quel à des fins personnelles et non commerciales, mais toute modification, copie de code source, revente ou création d'œuvre dérivée est strictement interdite. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous **Licence BSuite - Use As-Is Only**. Vous êtes libre d'utiliser le logiciel tel quel à des fins personnelles et non commerciales, mais toute modification, copie de code source, revente ou sous-licence est strictement interdite. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 <br>
 <div align="center">
@@ -145,7 +145,7 @@ Ce projet est sous **Licence BSuite - Use As-Is Only**. Vous êtes autorisé à 
 2. `index.html` dosyasını web tarayıcınızda açın.
 3. *(İsteğe bağlı)* Çeviri betiğini kullanmak için Node.js yüklü olmalıdır, ardından şu komutu çalıştırın: `node translate_content.js`
 
-## 👨‍💻 Yazar / Yaratıcı
+## 👨‍💻 Yazar
 
 **Bstudio136**
 
@@ -156,7 +156,7 @@ Ce projet est sous **Licence BSuite - Use As-Is Only**. Vous êtes autorisé à 
 
 ## 📄 Lisans
 
-Bu proje **BSuite - Use As-Is Only License** lisansı altındadır. Projeyi olduğu gibi kişisel ve ticari olmayan amaçlarla kullanabilirsiniz; ancak kodu değiştirmek, kopyalamak, yeniden satmak veya türev eserler oluşturmak kesinlikle yasaktır. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
+Bu proje **BSuite - Use As-Is Only License** lisansı altındadır. Yazılımı olduğu gibi kişisel ve ticari olmayan amaçlarla kullanabilirsiniz; ancak kodu değiştirmek, kopyalamak, yeniden satmak veya alt lisanslamak kesinlikle yasaktır. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
 
 <br>
 <div align="center">
